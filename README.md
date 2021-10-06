@@ -1,24 +1,5 @@
-# README
+# Travel Planner
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is a project to get a good idea of how to use one or more APIs in Rails applications.
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+This app allows the user to enter a country of destination and to show some key details about it such as currency, timezone and some weather information.
