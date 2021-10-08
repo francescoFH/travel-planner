@@ -23,7 +23,7 @@ gem 'jbuilder', '~> 2.7'
 # Reduces boot times through caching; required in config/boot.rb
 gem 'bootsnap', '>= 1.4.4', require: false
 
-gem 'bootstrap', '~> 4.3.1'
+
 gem 'excon'
 
 group :development, :test do
